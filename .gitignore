@@ -9,6 +9,7 @@
 *.ear
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# 测试改动会不会被提交到远程
 hs_err_pid*
 /.idea/
 /.gitignore
